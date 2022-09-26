@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploits.
 - 🌱 I’m currently learning to improve my programming from "terrible" to "vaguely mediocre"
 - 💞️ I’m looking to collaborate on exploits and offensive security tooling.
-- 📫 How to reach me ... I'll fill this in later.
+- 📫 How to reach me: https://twitter.com/ldsopreload
 
 <!---
 EvergreenCartoons/EvergreenCartoons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
